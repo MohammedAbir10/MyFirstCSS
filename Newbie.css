@@ -1,0 +1,33 @@
+
+
+/* Select the body element and set the background color and font properties */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    font-family: Arial, sans-serif; /* Set the font to Arial */
+    color: #333; /* Dark grey text color */
+}
+
+/* Select all h1 elements and set their properties */
+h1 {
+    color: #4CAF50; /* Green text color */
+    text-align: center; /* Center the text */
+}
+
+/* Select all p elements and set their properties */
+p {
+    font-size: 16px; /* Set the font size to 16 pixels */
+    line-height: 1.5; /* Set the line height to 1.5 times the font size */
+    margin: 10px 0; /* Add 10 pixels of margin above and below */
+}
+
+/* Select elements with the class "highlight" and set their properties */
+.highlight {
+    background-color: #FFFF00; /* Yellow background */
+    font-weight: bold; /* Bold text */
+}
+
+/* Select elements with the id "special" and set their properties */
+#special {
+    color: #FF0000; /* Red text color */
+    text-decoration: underline; /* Underline the text */
+}
